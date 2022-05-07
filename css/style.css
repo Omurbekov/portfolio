@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+.container {
+    width: 1140px;
+    margin: 0 auto;
+}
+
+#header {
+    padding: 15px 0;
+    background: rgba(50, 50, 50, 0.7);
+    backdrop-filter: blur(20px);
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header-nav {
+    color: white;
+    padding: 0 20px;
+    font-family: "Monrope", sans-serif;
+    font-size: 18px;
+}
+
+.hero-title {
+    font-family: 'Manrope', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    color: #DEDEDE;
+}
+
+.hero-desk {
+    font-family: 'Manrope', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    color: #959595;
+}
+
+
+
+
+
+
+
